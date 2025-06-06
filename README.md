@@ -12,7 +12,6 @@ Fastate is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web applic
 - 🛒 Add to cart, place orders, and track real-time order status
 - 🧾 Dynamic order summary and billing
 - 📱 Fully responsive and mobile-friendly UI
-- 👩‍🍳 Admin dashboard to manage food items, view orders, and update statuses
 - 🔐 Secure user authentication (JWT-based login/registration)
 - 🌐 RESTful APIs for all backend operations
 
